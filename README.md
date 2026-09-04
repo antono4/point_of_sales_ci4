@@ -1,1 +1,26 @@
-Last updated: 2026-09-04 07:25:55 WIB
+# point_of_sales_ci4
+
+
+
+## 📋 Overview
+
+This repository contains **480 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-04 08:18:13 WIB*
